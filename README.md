@@ -11,6 +11,7 @@ The project uses file handling to save and load account and transaction records,
 ## Developer Info
 
 Developer: Shahid Ali
+
 Roll Number: CX-INT-2026-CPP-0361
 
 
@@ -101,6 +102,7 @@ Exit
 ## Screenshots
 
 Main Menu
+
 <img width="732" height="399" alt="image" src="https://github.com/user-attachments/assets/c0ed5c70-7498-4604-8fcd-a86651f3060c" />
 
 Create Account
